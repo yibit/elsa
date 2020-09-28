@@ -15,13 +15,13 @@ Elsa is a _minimal_, _fast_ and _secure_ runtime for Javascript and Typescript w
 - Module caching
 - Bundle your script into a single file using `elsa bundle script.js`
 - Create a standalone executable for your script using `elsa pkg script.js`
+- Typechecking support with `elsa dev` subcommand
 
 ### Coming up
 
 - HTTP server, more Web APIs
 - Easy installation scripts
 - Standard modules
-- Typechecking support with `dev` subcommand
 
 ### Benchmarks
 
